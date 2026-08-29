@@ -26,6 +26,9 @@ wheels/
 # Large password files
 wifi密码本.txt
 *.txt
+!requirements.txt
 
 # Logs
 *.log
+
+audit_logs/

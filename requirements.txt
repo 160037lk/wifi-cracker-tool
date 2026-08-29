@@ -1,0 +1,2 @@
+pytest>=8.0
+reportlab>=4.0; platform_system == "Windows"
